@@ -7,7 +7,7 @@ print("pasta".__len__())
 print("st" in "pasta")
 print("pasta".__contains__("st"))
 
-print("Josa" + " ponte verga")
+print("Josa" + " ponte")
 print("pasta".__add__(" and meat balls"))
 
 print()
